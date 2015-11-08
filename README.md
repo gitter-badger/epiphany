@@ -13,4 +13,4 @@ RESTful idea management service.
    ```
    sh $ gradle run
    ```
-4. Use API URL `http://localhost:2010/`
+4. Use API URL `http://localhost:2740/`
