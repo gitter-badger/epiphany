@@ -1,5 +1,8 @@
 # Epiphany
 
+[![Build Status](https://travis-ci.org/el-bombillo/epiphany.svg)](https://travis-ci.org/el-bombillo/epiphany)
+[![codecov.io](https://codecov.io/github/el-bombillo/epiphany/coverage.svg?branch=master)](https://codecov.io/github/el-bombillo/epiphany?branch=master)
+
 RESTful idea management service. 
 
 ## Run
