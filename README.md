@@ -1,5 +1,7 @@
 # Epiphany
 
+[![Join the chat at https://gitter.im/el-bombillo/epiphany](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/el-bombillo/epiphany?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/el-bombillo/epiphany.svg)](https://travis-ci.org/el-bombillo/epiphany)
 [![codecov.io](https://codecov.io/github/el-bombillo/epiphany/coverage.svg?branch=master)](https://codecov.io/github/el-bombillo/epiphany?branch=master)
 
